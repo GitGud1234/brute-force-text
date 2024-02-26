@@ -1,0 +1,14 @@
+body {
+  background-color: #000;
+}
+
+#output {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  color: #00ff41;
+  font-family: 'Cutive Mono', monospace;
+  font-weight: 500;
+  font-size: 3rem;
+}
